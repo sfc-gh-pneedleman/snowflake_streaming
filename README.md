@@ -7,6 +7,6 @@
 3. Data Generation: `data_gen/`
 4. Results `results/`
 
-The post that accompanies this post can be found here:
+The post that accompanies this post can be found here: https://medium.com/snowflake/streaming-on-snowflake-e94e454ab739 
 
 
